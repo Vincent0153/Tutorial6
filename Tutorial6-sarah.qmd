@@ -1,0 +1,11 @@
+---
+title: "“Tutorial 6. Collaborating with others”"
+author: "Sarah Liu"
+format: html
+---
+
+```{r}
+knitr::opts_chunk(fig.width = 6, fig.height = 4,       
+  fig.align = "center" )
+```
+
