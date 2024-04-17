@@ -9,3 +9,9 @@ knitr::opts_chunk(fig.width = 6, fig.height = 4,
   fig.align = "center" )
 ```
 
+# libraries
+```{r}
+library(tidyverse)
+library(gridExtra)
+```
+
